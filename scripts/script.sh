@@ -1,4 +1,0 @@
-#!/bin/bash
-#This file is soon to be a bash script
-date
-ls -l

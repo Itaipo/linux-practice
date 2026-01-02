@@ -1,0 +1,9 @@
+#!/bin/bash
+#
+#
+read -p "please enter num of sec and pro name" sec prog
+set -x
+sleep $sec
+set -x
+read -p "press enter to countinue
+$prog
