@@ -1,0 +1,11 @@
+/home/itaipo/projects/linux-practice/Dir:
+total 0
+-rwxr-xr-x. 1 itaipo itaipo  0 Jan  2 16:25 1.file
+-rwxr-xr-x. 1 itaipo itaipo  0 Jan  2 16:25 a.txt
+drwxr-xr-x. 2 itaipo itaipo 50 Jan  2 16:45 dir1
+-rwxr-xr-x. 1 itaipo itaipo  0 Jan  2 16:25 file1
+-rwxr-xr-x. 1 itaipo itaipo  0 Jan  2 16:25 file2.txt
+-rwxr-xr-x. 1 itaipo itaipo  0 Jan  2 16:25 File3.c
+drwxr-xr-x. 2 itaipo itaipo  6 Jan  2 16:26 my_dir
+-rwxr-xr-x. 1 itaipo itaipo  0 Jan  2 16:25 my_file.
+-rwxr-xr-x. 1 itaipo itaipo  0 Jan  2 16:25 Zwave.conf
