@@ -1,0 +1,1 @@
+/tmp/itaipo-zerologs.d

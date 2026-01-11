@@ -1,0 +1,17 @@
+○ crond.service - Command Scheduler
+     Loaded: loaded (/usr/lib/systemd/system/crond.service; enabled; preset: enabled)
+     Active: inactive (dead) since Sat 2026-01-10 11:13:56 IST; 9h ago
+   Duration: 12min 50.523s
+    Process: 793 ExecStart=/usr/sbin/crond -n $CRONDARGS (code=exited, status=0/SUCCESS)
+   Main PID: 793 (code=exited, status=0/SUCCESS)
+        CPU: 12ms
+
+Jan 10 11:01:05 localhost.localdomain systemd[1]: Started Command Scheduler.
+Jan 10 11:01:06 localhost.localdomain crond[793]: (CRON) STARTUP (1.5.7)
+Jan 10 11:01:06 localhost.localdomain crond[793]: (CRON) INFO (Syslog will be used instead of sendmail.)
+Jan 10 11:01:06 localhost.localdomain crond[793]: (CRON) INFO (RANDOM_DELAY will be scaled with factor 54% if used.)
+Jan 10 11:01:06 localhost.localdomain crond[793]: (CRON) INFO (running with inotify support)
+Jan 10 11:13:56 localhost.localdomain systemd[1]: Stopping Command Scheduler...
+Jan 10 11:13:56 localhost.localdomain crond[793]: (CRON) INFO (Shutting down)
+Jan 10 11:13:56 localhost.localdomain systemd[1]: crond.service: Deactivated successfully.
+Jan 10 11:13:56 localhost.localdomain systemd[1]: Stopped Command Scheduler.
